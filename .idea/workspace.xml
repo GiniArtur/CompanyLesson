@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18abface-890a-4fcf-b15a-3f4ba0b214b6" name="Changes" comment="Add new MavenProject (CompanyLesson)" />
+    <list default="true" id="18abface-890a-4fcf-b15a-3f4ba0b214b6" name="Changes" comment="Add new MavenProject (CompanyLesson)">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +78,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713094843708</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add new MavenProject (CompanyLesson)">
+      <option name="closed" value="true" />
+      <created>1713094950586</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713094950586</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
